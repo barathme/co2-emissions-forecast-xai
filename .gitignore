@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large raw data (download via scripts; not committed)
+data/raw/*.csv
+!data/raw/.gitkeep
+!data/raw/README.md
+
+# Model artifacts (regenerate via pipeline; not committed to keep repo small)
+data/processed/*.pkl
+data/processed/*.npy
+!data/processed/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+optuna_study.db

@@ -1,0 +1,6 @@
+Model,R2_temporal,RMSE_temporal,MAE_temporal
+Ridge Regression (α=1),0.1979,18.301,13.388
+Random Forest,0.2205,18.041,13.326
+XGBoost (Optuna-tuned),0.2452,17.753,13.098
+LightGBM,0.2203,18.043,13.389
+CatBoost,0.2463,17.74,12.97

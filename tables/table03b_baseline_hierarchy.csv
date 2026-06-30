@@ -1,0 +1,4 @@
+Model,GKF_R2,Temporal_R2
+Naive (0% change),-0.1032,-0.0357
+Country FE only,-0.0023,0.1168
+Country FE + features,0.1617,0.1537

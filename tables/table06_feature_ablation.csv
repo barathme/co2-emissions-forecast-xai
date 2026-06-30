@@ -1,0 +1,8 @@
+Feature_Dropped,Temporal_R2,Temporal_Delta
+internet_penetration,0.217,-0.0283
+log_gdp_pc,0.2193,-0.0259
+pop_growth,0.2337,-0.0115
+relative_co2_intensity,0.234,-0.0112
+inflation_rate,0.2378,-0.0074
+hdi,0.2408,-0.0045
+gdp_growth_calc,0.2498,0.0045

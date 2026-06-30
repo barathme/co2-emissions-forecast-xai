@@ -1,0 +1,7 @@
+Region,n_test,R2,CI_lo,CI_hi,RMSE
+south_asia,124,-0.0441,-0.2026,0.0743,23.527
+sub_saharan_africa,732,-0.1753,-0.238,-0.1198,27.725
+europe_central_asia,818,0.1983,0.1291,0.2511,15.486
+middle_east_north_africa,324,-0.1089,-0.3394,0.0586,15.287
+america,561,0.0578,-0.0132,0.1207,15.371
+east_asia_pacific,427,0.0182,-0.0464,0.078,24.788
